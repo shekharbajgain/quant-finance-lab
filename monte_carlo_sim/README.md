@@ -6,6 +6,10 @@
 ![NumPy](https://img.shields.io/badge/NumPy-Simulation-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Math-Statistics-orange?style=flat-square)
 
+## 🗓️ Build Timeline
+- **Originally built:** **November 2025**
+- **Repo note:** Current commit dates may be newer due to repository reset/cleanup.
+
 ## 🧐 Overview
 Predicting a specific future stock price is impossible. Predicting a **probability distribution** of future prices is science. This project uses Monte Carlo simulations to model thousands of potential market scenarios, allowing us to calculate **Value at Risk (VaR)**—a standard metric in institutional risk management.
 

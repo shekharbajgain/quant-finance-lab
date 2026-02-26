@@ -6,6 +6,10 @@
 ![NumPy](https://img.shields.io/badge/NumPy-Simulation-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-11557c?style=flat-square)
 
+## 🗓️ Build Timeline
+- **Originally built:** **September 2025**
+- **Repo note:** Current commit dates may be newer due to repository reset/cleanup.
+
 ## 🧐 Overview
 This project explores the mathematical concept of **diversification**. By simulating thousands of random portfolio combinations, we can visualize the "Efficient Frontier"—the set of optimal portfolios that offer the highest expected return for a defined level of risk.
 

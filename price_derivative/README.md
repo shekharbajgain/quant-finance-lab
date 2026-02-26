@@ -6,6 +6,10 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Calculus](https://img.shields.io/badge/Math-Calculus-orange?style=flat-square)
 
+## 🗓️ Build Timeline
+- **Originally built:** **October 2025**
+- **Repo note:** Current commit dates may be newer due to repository reset/cleanup.
+
 ## 🧐 Overview
 Traders often look at price, but price is a lagging indicator. This project applies **Newtonian Physics** to financial markets by calculating the velocity and acceleration of price movements. The goal is to identify when a trend is "running out of gas" (negative acceleration) before the price actually reverses.
 

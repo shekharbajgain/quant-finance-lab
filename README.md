@@ -1,12 +1,14 @@
-# 📊 Quantitative Finance Projects
+# 📊 Quant Finance Lab — Python Projects
 
 > *Exploring the intersection of Mathematics, Finance, and Code.*
 
 This repository documents my journey into quantitative analysis. I've built these projects to move beyond textbook theory and understand the **mathematical intuition** behind financial models.
 
 ## 🗓️ Project Timeline
+- **Efficient Frontier:** originally built in **September 2025**
+- **Price Derivative Analyzer:** originally built in **October 2025**
+- **Monte Carlo Simulator:** originally built in **November 2025**
 
-> **Note:** The current Git history reflects a later repository cleanup/reorganization, so commit dates may be newer than the original build months.
 > **Repository Reset Note:** This repository was recreated after fixing earlier repository errors/issues and reorganizing project files.
 >
 > **Timeline Note:** The projects themselves were originally built in the months above, so commit dates in the recreated repository may be newer than the original build timeline.
